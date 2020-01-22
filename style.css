@@ -1,5 +1,7 @@
 .arkaplan
 {
+    width: auto;
+    height: auto;
     background: url("./iupkpskgunleri.JPG");
     border: 1px solid;
     background-size: cover;
