@@ -3,6 +3,7 @@
     width: -webkit-fill-available;
     height: -webkit-fill-available;
     background: url("./iupkpskgunleri.JPG");
+    background-repeat:no-repeat;
     background-size: cover;
     background-position:center;
 }
