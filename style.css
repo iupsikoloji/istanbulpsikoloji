@@ -1,11 +1,6 @@
-    .arkaplan
+    .saydam
 {
-    background-img:url(./iupkpskgunleri.JPG);
-    width: -webkit-fill-available;
-    height: -webkit-fill-available;
+   
     opacity: 0.3;
     filter:alpha(opacity=30);
-    background-repeat:no-repeat;
-    background-size: cover;
-    background-position:center;
 }
