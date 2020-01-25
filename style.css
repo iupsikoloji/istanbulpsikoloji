@@ -1,8 +1,9 @@
-.arkaplan
+    .resim1
 {
     width: -webkit-fill-available;
     height: -webkit-fill-available;
-    background: url("./iupkpskgunleri.JPG");
+    opacity: 0.3;
+    filter:alpha(opacity=30);
     background-repeat:no-repeat;
     background-size: cover;
     background-position:center;
